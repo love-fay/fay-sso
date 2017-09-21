@@ -1,0 +1,28 @@
+:global(#navTop #nav-top-menu){
+    position: fixed;
+    width: 100%;
+    -webkit-box-shadow: 0px 3px 30px rgba(0,0,0,0.9);
+    -moz-box-shadow: 0px 3px 30px rgba(0,0,0,0.9);
+    box-shadow: 0px 3px 30px rgba(0,0,0,0.9);
+    background-color: #000;
+    color: #FFF;
+    z-index: 4;
+    border-bottom: 1px solid #000;
+    top: 0;
+}
+
+:global(#navLeft #nav-left-menu){
+    position: fixed;
+    -webkit-box-shadow: 0px 3px 30px rgba(0,0,0,0.2);
+    -moz-box-shadow: 0px 3px 30px rgba(0,0,0,0.2);
+    box-shadow: 0px 3px 30px rgba(0,0,0,0.2);
+    z-index: 2;
+    top: 60px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    bottom: 20px;
+}
+
+:global(#fayContent){
+    margin: 60px 20px 50px 170px;
+}

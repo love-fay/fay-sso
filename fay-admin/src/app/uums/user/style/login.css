@@ -1,0 +1,20 @@
+.root{
+    padding-top: 50px;
+}
+.card{
+    max-width: 348px;
+    margin: auto;
+    border: none !important;
+}
+.customImage{
+    text-align: center;
+}
+.loginForm {
+    max-width: 300px;
+}
+.loginFormForgot {
+    float: right;
+}
+.loginFormButton {
+    width: 100%;
+}

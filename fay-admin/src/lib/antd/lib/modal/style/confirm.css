@@ -1,0 +1,64 @@
+/* stylelint-disable at-rule-empty-line-before,at-rule-name-space-after,at-rule-no-unknown */
+/* stylelint-disable declaration-bang-space-before */
+/* stylelint-disable declaration-bang-space-before */
+.ant-confirm .ant-modal-header {
+  display: none;
+}
+.ant-confirm .ant-modal-close {
+  display: none;
+}
+.ant-confirm .ant-modal-body {
+  padding: 30px 40px;
+}
+.ant-confirm-body-wrapper {
+  zoom: 1;
+}
+.ant-confirm-body-wrapper:before,
+.ant-confirm-body-wrapper:after {
+  content: " ";
+  display: table;
+}
+.ant-confirm-body-wrapper:after {
+  clear: both;
+  visibility: hidden;
+  font-size: 0;
+  height: 0;
+}
+.ant-confirm-body .ant-confirm-title {
+  color: rgba(0, 0, 0, 0.9);
+  font-weight: bold;
+  font-size: 14px;
+}
+.ant-confirm-body .ant-confirm-content {
+  margin-left: 42px;
+  font-size: 12px;
+  color: rgba(0, 0, 0, 0.9);
+  margin-top: 8px;
+}
+.ant-confirm-body > .anticon {
+  font-size: 24px;
+  margin-right: 16px;
+  padding: 0 1px;
+  float: left;
+}
+.ant-confirm .ant-confirm-btns {
+  margin-top: 30px;
+  float: right;
+}
+.ant-confirm .ant-confirm-btns button + button {
+  margin-left: 10px;
+  margin-bottom: 0;
+}
+.ant-confirm-error .ant-confirm-body > .anticon {
+  color: #f04134;
+}
+.ant-confirm-warning .ant-confirm-body > .anticon,
+.ant-confirm-confirm .ant-confirm-body > .anticon {
+  color: #ffbf00;
+}
+.ant-confirm-info .ant-confirm-body > .anticon {
+  color: #108ee9;
+}
+.ant-confirm-success .ant-confirm-body > .anticon {
+  color: #00a854;
+}
