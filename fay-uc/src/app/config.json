@@ -1,0 +1,10 @@
+{
+  "location": "http://127.0.0.1:8100",
+  "postMessageDomain": "http://127.0.0.1:8100",
+  "cookieMaxAge": "604800",
+  "allowedDomain": [
+    "127.0.0.1:8000",
+    "*"
+  ],
+  "secure": "false"
+}
