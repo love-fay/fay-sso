@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="http://ant.design">
+  <a href="https://github.com/love-fay/fay-sso">
     <img width="150" src="https://github.com/love-fay/fay-sso/blob/master/fay-admin/src/assets/images/logo/150%3D150.png">
   </a>
 </p>
@@ -58,13 +58,13 @@
 ## How
 > 首先先上两张图，主要是根据这两张图实现，你会发现就是这么简单！
 <p align="center">
-  <a href="http://ant.design">
+  <a href="https://github.com/love-fay/fay-sso">
     <img src="https://github.com/love-fay/images/blob/master/sso/20170210150705196.jpeg">
   </a>
 </p>
 
 <p align="center">
-  <a href="http://ant.design">
+  <a href="https://github.com/love-fay/fay-sso">
     <img src="https://github.com/love-fay/images/blob/master/sso/20170210150735478.jpeg">
   </a>
 </p>
