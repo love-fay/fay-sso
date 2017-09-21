@@ -12,7 +12,7 @@
 
 > > 让我们直接先来测试这个例子，然后看下我实现的想法，你会发现它是如此的简单！
 >
-> > 下载这个例子，你需要下载整个fay-sso文件夹，因为fay-uc中的lib被fay-admin中的main.js使用了（当然也可以单独打包给fay-admin使用，因为我们项目中经常会涉及与服务端的对接代码，所以每次更换地址都要重新打包很麻烦，于是直接引用了），所以我需要添加package.json在fay-admin和fay-uc的父级目录，当然我们需要再fay-sso目录下执行npm install
+> > 下载这个例子，你需要下载整个fay-sso文件夹，因为fay-uc中的lib被fay-admin中的main.js使用了（当然也可以单独打包给fay-admin使用，因为我们项目中经常会涉及与服务端的对接代码，所以每次更换地址都要重新打包很麻烦，于是直接引用了），所以我需要添加package.json在fay-admin和fay-uc的父级目录，当然我们需要在fay-sso目录下执行npm install
 >
 > > 进入fay-admin目录下，然后npm start，进入fay-uc，然后npm start
 >
