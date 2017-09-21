@@ -13,8 +13,8 @@
   "author": "fay",
   "license": "ISC",
   "repository": {
-    "type": "svn",
-    "url": "https://192.168.210.175:88/!/#Simba/view/head/code/simba-front-end-fay/fay-uc"
+    "type": "git",
+    "url": "https://github.com/love-fay/fay-sso/fay-uc"
   },
   "devDependencies": {
     "ajv": "^5.2.2",

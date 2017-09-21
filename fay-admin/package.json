@@ -1,6 +1,6 @@
 {
   "name": "fay-admin",
-  "version": "1.0.0",
+  "version": "0.0.2",
   "description": "it's a management background of Simba's uums",
   "main": "src/main.js",
   "scripts": {
@@ -15,8 +15,8 @@
   "author": "fay",
   "license": "ISC",
   "repository": {
-    "type": "svn",
-    "url": "https://192.168.210.175:88/!/#Simba/view/head/code/simba-front-end-fay/fay-admin"
+    "type": "git",
+    "url": "https://github.com/love-fay/fay-sso"
   },
   "devDependencies": {
     "ajv": "^5.2.2",
